@@ -25,3 +25,12 @@
     gap: 15px;
     width: 100%;
 }
+
+@media screen and (max-width: 830px) {
+    .title{
+        text-align: center;
+    }
+    .projects{
+        align-items: center;
+    }
+}

@@ -77,6 +77,9 @@
       align-items: center;
       gap: 34px;
     }
+    .title{
+        text-align: center;
+    }
   
     .skills {
       width: 100%;

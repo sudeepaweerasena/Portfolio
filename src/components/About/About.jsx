@@ -8,11 +8,11 @@ export const About = () => {
         <section className={styles.container} id='about'>
             <h2 className={styles.title}>About</h2>
             <div className={styles.content}>
-                <img 
+                {/* <img 
                 src={getImagesUrl("about/aboutImage.jpeg")} 
                 alt="About image" 
                 className={styles.aboutimage}
-                />
+                /> */}
             
                 <ul className={styles.aboutItems}>
                     <li className={styles.aboutItem}>
