@@ -1,6 +1,7 @@
 @import "../../vars.css";
 
 .container{
+    
     display: flex;
     flex-direction: column;
     border-radius: 10px;
@@ -10,6 +11,7 @@
     width: 100%; /* New addition */
     max-width: 345px; /* Keep this if you want a max width */
     box-sizing: border-box; /* This ensures padding is included in width */
+    
 }
 
 
