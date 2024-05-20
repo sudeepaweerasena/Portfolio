@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Progression Outcome Predictor",
+    "level": "(Level 4 Individual Project)",
+    "description": "Developed software for predicting progression outcomes at the end of each academic year.",
+    "skills": "Python",
+    "source": "https://github.com/sudeepaweerasena/Progression-Outcome.git"
+  },
+  {
+    "title": "Website Design and Development",
+    "level": "(Level 4 Group Project)",
+    "description": "Designed and developed a tourism website for Australia. I did the online shop page, checkout page, and detailed country information page.",
+    "skills": "HTML, CSS, JavaScript",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Foodies Fave Queue Management System",
+    "level": "(Level 4 Individual Project)",
+    "description": "Designed and developed the queue management system, Burger selling dashboard, Burger stock management system and a GUI to represent the customer queue details.",
+    "skills": "Java, JavaFX",
+    "source": "https://github.com/sudeepaweerasena/Foodie-Fave.git"
+  },
+  {
+    "title": "Online shopping management system",
+    "level": "(Level 5 Individual Project)",
+    "description": "Design and developed a console system for the manager who controls the system and a Graphical User Interface (GUI) for customers.",
+    "skills": "Java, OOP concepts, JavaSwing",
+    "source": "https://github.com/sudeepaweerasena/Foodie-Fave.git"
+  },
+  {
+    "title": "Software Development Group Project - IoT-based Safety Smart Helmet for the Construction Industry",
+    "level": "(Level 5 Group Project)",
+    "description": "Developed a safety smart helmet for construction workers with a management system, enabling real-time monitoring for enhanced safety. I’m worked on the backend with NodeJS.",
+    "skills": "NodeJS, ReactJS",
+    "source": "https://github.com/sudeepaweerasena/Backend.git"
+  }
+]

@@ -1,0 +1,71 @@
+@import "../../vars.css";
+
+.container{
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px;
+    background: linear-gradient(180deg, #d7eafc 0%, #94acd5 100%);
+    box-shadow: 0 16px 14px 0 #94bbf1;
+    padding: 18px 24px;
+    width: 100%; /* New addition */
+    max-width: 345px; /* Keep this if you want a max width */
+    box-sizing: border-box; /* This ensures padding is included in width */
+}
+
+
+.image{
+    margin-bottom: 26px;
+}
+
+.title{
+    font-size: 25px;
+    font-weight: 700;
+    
+}
+
+.level{
+    margin-top: 5px;
+    font-size: 15px; /* Adjusted for readability */
+    font-weight: 100;
+    font-style: italic;
+    margin-bottom: 0px; /* Adjust this to fit your content */
+}
+
+.description{
+    margin-top: 6px;
+    font-size: 15px; /* Adjusted for readability */
+    font-weight: 400;
+    margin-bottom: 0px; /* Adjust this to fit your content */
+    overflow: hidden; 
+    text-overflow: ellipsis; 
+}
+
+
+.skills {
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 10px; /* Reduce or remove top margin */
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 6px;
+    list-style: none;
+    justify-content: left; /* Center skills horizontally */
+}
+  
+.link {
+    display: flex;
+    text-decoration: none;
+    flex-direction: column;
+    align-items: flex-start; 
+    width: 35%;
+    margin-top: auto; 
+    background: var(--color-primary);
+    border-radius: 100px;
+    padding: 1px 22px;
+    text-align: center;
+    margin-bottom: 10px; 
+    font-size: 20px;
+    color: rgb(252, 252, 252);
+
+}
